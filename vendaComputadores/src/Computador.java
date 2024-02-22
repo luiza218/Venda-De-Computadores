@@ -1,9 +1,5 @@
 import java.io.*;
 
-//FALTA CORRIGIR TAMANHO DOS CAMPOS PRA FICAR COM UM DISPLAY OK
-//FALTA CRIACAO DE UMA LINHA TOTAIS NO FINAL DO RELATORIO
-//INCLUIR VARIOS COMPUTADORES
-
 public class Computador {
 
 	char ativo; // n p/ registro excluï¿½do e s pra registro corrente
